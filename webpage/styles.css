@@ -320,7 +320,7 @@ p{
   color: #ffffff;
 }
 
-/*============= Footer ===============*/
+/*============= Footer ===============
 footer {
   width: 100%;
   background-color: #fff;
@@ -342,6 +342,7 @@ footer .footer-content .logo{
 footer .footer-content .logo img{
   width: 100%;
 }
+*/
 
 /*============= Media query ===============*/
 @media(min-width: 400px){
